@@ -1,4 +1,4 @@
-Reuters Toggle tasks
+Reuters Toggle Task
 
 Clone the project & use 'npm start' in your terminal to launch the application.
 
